@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<response time="2020-11-30 16:01:44">
+	<car tm_number="4692" number_plate="x" make="y">
+		<info time="1900-00-00 00:00:01" ignition="0" speed="0" lat="0" lng="0">empty</info>
+	</car>
+	<car tm_number="2530" number_plate="1E04152" make="Test">
+		<info time="2020-11-30 16:00:23+01" ignition="1" speed="90.80" lat="20.24" lng="50.45">Some thing here</info>
+	</car>
+</response>
